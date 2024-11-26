@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Arcxml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Introduction
 
-<!---
-Arcxml/Arcxml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 I'm a second year undergraduate student from [University of Science and Technology of China](https://en.ustc.edu.cn/). 
+
+📚 My research interest includes **computer vision, 3D Reconstruction, and machine learning**.
+
+
+🏆 I am very fortunate to be advised by [Prof. Liu](https://faculty.ustc.edu.cn/dongeliu/) of VADAR Lab.
+
+
+## Contact me
+ 📧  Email：zhangmenglin@mail.ustc.edu.cn
+
+ 
+ 🔍  Wechat： Arcxml
+
+ 
+ 🖥️  Page: [Github](https://github.com/Arcxml)  / [CSDN](https://blog.csdn.net/weixin_49599247?type=blog)
