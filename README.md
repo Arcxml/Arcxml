@@ -1,6 +1,6 @@
 ## Introduction
 
-🌟 I'm a second year undergraduate student from [University of Science and Technology of China](https://en.ustc.edu.cn/). 
+🌟 I'm a second year master student from [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
 📚 My research interest includes **computer vision, 3D Reconstruction, and machine learning**.
 
